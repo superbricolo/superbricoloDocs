@@ -1,3 +1,6 @@
+## 0.10 (04/05/2024)
+- Ajout d'une option dans la configuration pour basculer en utilisation iframe (utilisateur safari Mac et Iphone)
+
 ## 0.9 (22/03/2024)
 - Gestion de la connexion dans la cas d'un domaine local
 
